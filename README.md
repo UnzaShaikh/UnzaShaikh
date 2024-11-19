@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/unzashaikh" target="blank"><img src="https://img.shields.io/twitter/follow/unzashaikh?logo=twitter&style=for-the-badge" alt="unzashaikh" /></a> </p>
 
-- 🔭 I’m currently working on **Gmail-Clone-App**
+- 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Html , CSS , JavaScript , JQuery , Tailwind , Bootstrap , NPM , Webpack , Graphic Designing**
+- 💬 Ask me about **Html5 , CSS3 , JavaScript , JQuery , Tailwind , Bootstrap , Graphic Designing**
 
 - 📫 How to reach me **unzasheikh113@gmail.com**
 
